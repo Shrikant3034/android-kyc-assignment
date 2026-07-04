@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary">#1D4ED8</color>
+    <color name="primaryDark">#1E40AF</color>
+
+    <color name="green">#22C55E</color>
+    <color name="orange">#F59E0B</color>
+
+    <color name="background">#F5F7FB</color>
+
+    <color name="card">#FFFFFF</color>
+
+    <color name="textDark">#222222</color>
+
+    <color name="textLight">#757575</color>
+
+</resources>
