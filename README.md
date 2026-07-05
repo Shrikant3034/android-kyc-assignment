@@ -46,38 +46,14 @@ Screenshot 2026-07-05 053125.png
 <img width="282" height="607" alt="Screenshot 2026-07-05 054146" src="https://github.com/user-attachments/assets/798d0e64-3a98-4584-ad36-9755300419b7" />
 
 
----
+Screen Recording
+Recording 2026-07-05 055001.mp4
 
-## Screen Recording
-
-App Demo:
-
-**Google Drive Link:**  
-Paste your screen recording link here.
-
-Example:
-https://drive.google.com/your-video-link
-
----
-
-## How to Run
-
-1. Clone the repository.
-2. Open the project in Android Studio.
-3. Sync Gradle.
-4. Run the application on an emulator or Android device.
-
----
-
-## Project Information
-
-- **Language:** Kotlin
-- **IDE:** Android Studio
-- **Minimum SDK:** 24 (or your project's minimum SDK)
-- **Target SDK:** 36
-
----
-
+Project Information
+- Language: Kotlin
+- IDE: Android Studio
+- Minimum SDK: 24 (or your project's minimum SDK)
+- Target SDK: 36
 ## Author
 
 **Shrikant Pawar**
